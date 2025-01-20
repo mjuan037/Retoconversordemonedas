@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://github.com/DavidVF7/Conversor-de-Monedas/assets/103916971/645bfae6-38cf-4f90-add7-8f9b3929cb5a"
+  <img src="https://img.freepik.com/vector-gratis/coleccion-pegatinas-finanzas-deslumbrantes_52683-76777.jpg?t=st=1737401519~exp=1737405119~hmac=19957797b096fdbdd4163d641a9002c0830a7772ef28730dd785cea383eb78ad&w=740)"
 </p>
 
 # Conversor de Monedas 💵💱💶
@@ -37,7 +37,7 @@ Esta clase se encarga de guardar el historial de consultas en un archivo de text
 El punto de entrada principal del programa. Aquí se maneja la interacción con el usuario a través de la consola, mostrando un menú de opciones y gestionando las conversiones de moneda.
 
 ## 👨‍💻 Desarrollado por
-- David Velasco Fierros
+- Juan Manuel García García
 
 ## Instrucciones de Uso 🚀
 
@@ -46,9 +46,4 @@ El punto de entrada principal del programa. Aquí se maneja la interacción con 
 3. Ejecuta la clase Principal.java para iniciar el programa.
 4. Sigue las instrucciones en pantalla para realizar conversiones de moneda.
 
-¡Disfruta convirtiendo monedas!
-
-## ¿Cómo funciona? 🎥
-Aquí puedes ver una demostración visual de cómo funciona el proyecto:
-
-[Demostración del proyecto](https://youtu.be/a42KEl1l0kY)
+¡Viaja y aprende a cambiar otro tipo de monedas!
