@@ -36,7 +36,7 @@ Esta clase se encarga de guardar el historial de consultas en un archivo de text
 
 El punto de entrada principal del programa. Aquí se maneja la interacción con el usuario a través de la consola, mostrando un menú de opciones y gestionando las conversiones de moneda.
 
-## 👨‍💻 Desarrollado por
+## 👨‍💻 Modificado por
 - Juan Manuel García García
 
 ## Instrucciones de Uso 🚀
