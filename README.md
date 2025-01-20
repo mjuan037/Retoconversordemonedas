@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://img.freepik.com/vector-gratis/coleccion-pegatinas-finanzas-deslumbrantes_52683-76777.jpg?t=st=1737401519~exp=1737405119~hmac=19957797b096fdbdd4163d641a9002c0830a7772ef28730dd785cea383eb78ad&w=740)"
+  <img src=https://img.freepik.com/vector-gratis/coleccion-pegatinas-finanzas-deslumbrantes_52683-76777.jpg?t=st=1737401519~exp=1737405119~hmac=19957797b096fdbdd4163d641a9002c0830a7772ef28730dd785cea383eb78ad&w=740"
 </p>
 
 # Conversor de Monedas 💵💱💶
